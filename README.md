@@ -1,6 +1,6 @@
 # Penn-STAT-724-Final-Project
 
-**Project Topic**: NLP Application on Financial Topic
+**Project Topic**: Advanced Text Analysis of Financial News Headlines
 
 **Course**: STAT 7240 Text Analytics
 
